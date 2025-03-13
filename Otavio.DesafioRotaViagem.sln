@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otavio.DesafioRotaViagem.Api", "Otavio.DesafioRotaViagem.Api\Otavio.DesafioRotaViagem.Api.csproj", "{4CDF9593-7219-40E4-87F5-0531E852791C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otavio.DesafioRotaViagem.Tests", "Otavio.DesafioRotaViagem.Tests\Otavio.DesafioRotaViagem.Tests.csproj", "{B752CCD6-21FC-4F8E-A6D9-6AB5A853048F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4CDF9593-7219-40E4-87F5-0531E852791C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CDF9593-7219-40E4-87F5-0531E852791C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CDF9593-7219-40E4-87F5-0531E852791C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B752CCD6-21FC-4F8E-A6D9-6AB5A853048F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B752CCD6-21FC-4F8E-A6D9-6AB5A853048F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B752CCD6-21FC-4F8E-A6D9-6AB5A853048F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B752CCD6-21FC-4F8E-A6D9-6AB5A853048F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
